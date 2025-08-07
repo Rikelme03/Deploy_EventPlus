@@ -11,7 +11,7 @@ const CadastroUsuario = () => {
   const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
   const [senha, setSenha] = useState("");
-  const [tipoUsuario, setTipoUsuario] = useState("f2dfc5e5-1853-4dbe-9aa5-7dce6851fc8f");
+  const [tipoUsuario, setTipoUsuario] = useState("B9715542-585E-453A-8561-5133CEC01949");
 
   const navigate = useNavigate(); // ⬅️ Hook para redirecionar
 
